@@ -88,4 +88,5 @@ Contributions to improve the frontend or resolve deployment challenges are welco
 ---
 
 Developed by: Soham Dutta
+
 For queries, contact: sohamdutta047@gmail.com
