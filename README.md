@@ -1,3 +1,4 @@
+# https://github.com/soham047/ValidGram.AI (full project)
 # ValidGram.AI (Frontend Only)
 
 This repository hosts the frontend-only version of the ValidGram.AI project. It has been created as an alternative way to showcase the project due to deployment restrictions imposed by free hosting platforms like Render on web scraping and backend functionalities.
